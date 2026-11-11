@@ -7,7 +7,6 @@ end-of-season awards that can be tracked as the season continues
 ## Features
 - Top 10 leaderboards with adjustable fantasy scoring, minimum games, and team filters
 - MVP, DPOY, and ROY estimates based on player stats
-- (anything else you've built)
 
 ## How the award estimates work
 Explain in plain language: which stats, z-scores, weights, softmax.
